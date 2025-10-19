@@ -441,9 +441,9 @@ date: 2019-02-01 20:03:41
         "des":"小小白"
     },
     {
-        "title": "🌹Dominic的二手博客🌹",
+        "title": "🌹Dominic🌹",
         "link": "https://blog.dominickk.top/",
-        "img": "http://dominickk.oss-cn-hangzhou.aliyuncs.com/typora/2023/11/dominic.jpg",
+        "img": "https://blog.dominickk.top/upload/avatar1.png",
         "des": "写文档使我快乐🍺"
     },
     {
